@@ -6,8 +6,7 @@
         <a href="#sobre">Sobre</a> •
         <a href="#tabela-de-conteudo">Tabela de Conteúdo</a> •
         <a href="#tecnologias">Tecnologias</a> •
-        <a href="#certificado">Certificado</a> •
-        <a href="#autor">Autor</a>
+        <a href="#certificado">Certificado</a>
     </p>
 </main>
 
@@ -20,7 +19,7 @@
     <p style="text-align: justify;">Os estudos <b>deste repositório</b> foram feitos de acordo com o curso <a href="https://cursos.alura.com.br/course/mobile-first-layouts-responsivos">Layouts Responsivos: trabalhando com layouts mobile</a> com <b>auxílio</b> do instrutor <b>Matheus Alberto</b>.</p>
     <p style="text-align: justify;">É um site de uma empresa.</p>
     <p style="text-align: justify;">Com isso, quero enfatizar que o <b>conteúdo este repositório foi um estudo</b>! Não o criei sozinho, mas todo o conhecimento fornecido vou absorvido.</p>
-    <p style="text-align: justify;">Para ver o site que viu no gif, clique <a href="https://aluraapeperia.vercel.app/">aqui</a>.</p>
+    <p style="text-align: justify;">Para ver o site que viu no gif, clique <a href="https://aluraapeperia.ebarbozadev.vercel.app/">aqui</a>.</p>
 </section>
 
 <section id="tabela-de-conteudo">
@@ -48,19 +47,12 @@
 <section id="tecnologias">
     <h2 style="font-size: 1.25rem;">Tecnologias</h2>
     <ul>
-        <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a>;</li>
-        <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>.</li>
+        <li>HTML5;</li>
+        <li>CSS3.</li>
     </ul>
 </section>
 
 <section id="certificado">
     <h2 style="font-size: 1.25rem;">Certificado</h2>
     <p style="text-align: justify;">Veja o certificado que obtive no curso! Ou veja online <a href="https://cursos.alura.com.br/certificate/3d5c6a0f-e42c-407a-8412-2d4e7733484e">aqui</a>.</p>
-    <img src="Certificado de Conclusão Layouts Responsivos trabalhando com layouts mobile.jpg">
-</section>
-
-<section id="autor">
-    <h2 style="font-size: 1.25rem;">Autor</h2>
-    <img src="foto.jpg" width="170">
-    <p style="text-align: justify;"><i>Emanuel Marcos (E.Barboza)<i></p>
 </section>
